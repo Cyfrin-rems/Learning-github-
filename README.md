@@ -6,5 +6,4 @@
 - Azure CLI commands
 - Git basics
 - OSI model
-- SSH and RDP
 
